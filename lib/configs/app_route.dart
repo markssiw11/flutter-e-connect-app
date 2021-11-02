@@ -1,5 +1,4 @@
 import 'package:e_connect_app/pages/login/login_page.dart';
-import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 
 class AppRoute {

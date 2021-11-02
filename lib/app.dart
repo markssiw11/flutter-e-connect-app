@@ -9,7 +9,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'ABCD',
+      title: '',
       initialRoute: AppRoute.routeLoginScreen(),
       getPages: AppRoute.generateGetPages(),
     );
